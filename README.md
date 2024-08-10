@@ -25,7 +25,7 @@
 
 ## 附件
 
-[文档教程(正在更新中)](https://www.yuque.com/alipayxxda4itl6o/xgcgm6)| [视频效果演示（这个是老版本的演示）](https://www.bilibili.com/video/BV1ur421p7CU)|[夸克网盘【提供整合包、预训练模型的下载】](https://pan.quark.cn/s/9f657bc7ab81)
+[文档教程(正在更新中)](https://www.yuque.com/alipayxxda4itl6o/xgcgm6)| [视频效果演示（这个是老版本的演示）](https://www.bilibili.com/video/BV1ur421p7CU)|[作者的相关作品集（新版）](https://space.bilibili.com/287906485/channel/collectiondetail?sid=2944499)|[夸克网盘【提供整合包、预训练模型的下载】](https://pan.quark.cn/s/c029ea988d38)
 
 
 ## 使用须知
@@ -57,15 +57,14 @@
   - [ ] 录制相关使用教程（在b站更新）
   - [ ] 发布与本项目相关联的第三方项目整合包（【附件中夸克网盘】）
 
-- [ ] **近期更新计划:  **
+- [ ] **v2版本更新计划:  **
   - [ ] 支持更多的哔哩哔哩直播间弹幕互动
   - [ ] 字幕机
   - [ ] 支持通过与AI-VTuber的互动生成训练数据
-  - [ ] 支持gpt-sovits情感控制
   - [ ] 对接diffsinger，实现一个完整的语音声库定制方案
-  - [ ] 支持更多的llm接口方案
-  - [ ] 支持更多的TTS接口方案
-  - [ ] 高级一点的AI Agent 😏
+  - [ ] 基于electron开发应用端【重点】
+  - [ ] 分离并发布AI-VTuber的长期记忆三方库（pypi）
+  - [ ] 更加智能的AI Agent 😏
 
 
 ## 如何启动本项目
