@@ -53,18 +53,18 @@
   - [x] streamlit客户端设计（主要是管理和定制你的ai-vtuber的）
 
 - [ ] **当前主要工作：**
-  - [ ] 完善项目文档（在语雀更新【附件中文档教程】）
+  - [x] 完善项目文档（在语雀更新【附件中文档教程】）
   - [ ] 录制相关使用教程（在b站更新）
-  - [ ] 发布与本项目相关联的第三方项目整合包（【附件中夸克网盘】）
+  - [x] 发布与本项目相关联的第三方项目整合包（【附件中夸克网盘】）
 
-- [ ] **v2版本更新计划:  **
-  - [ ] 支持更多的哔哩哔哩直播间弹幕互动
-  - [ ] 字幕机
-  - [ ] 支持通过与AI-VTuber的互动生成训练数据
-  - [ ] 对接diffsinger，实现一个完整的语音声库定制方案
-  - [ ] 基于electron开发应用端【重点】
-  - [ ] 分离并发布AI-VTuber的长期记忆三方库（pypi）
-  - [ ] 更加智能的AI Agent 😏
+- [ ] **未来v2版本更新计划（本人大四生，这一年将会比较忙碌，所以v2更新会比较慢）:  **
+- 0、缩减项目体积和运行成本
+- 1、基于electron开发桌面应用（主要任务）
+- 2、主要基于国内性价比较高的LLM继续开发Agent模块
+- 3、完善一个作为AI主播该有的直播间交互功能
+- 4、尝试更多的数字人方案（目前正在考虑以生态较为成熟的live2d技术配合图像生成作为下一阶段的数字人方案），
+例如：https://github.com/user-attachments/assets/9f699967-feb7-4dc8-9f38-b28a64d06c89
+
 
 
 ## 如何启动本项目
@@ -160,3 +160,7 @@ https://github.com/Anjok07/ultimatevocalremovergui
 https://github.com/Ksuriuri/EasyAIVtuber
 
 https://github.com/fishaudio/Bert-VITS2
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=whoiswennie/AI-Vtuber&type=Date)](https://star-history.com/#whoiswennie/AI-Vtuber&Date)
